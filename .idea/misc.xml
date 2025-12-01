@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="Black">
-    <option name="sdkName" value="Python 3.14 virtualenv at ~/private/quant-blackscholes-crank-nicolson/.venv" />
-  </component>
-  <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="uv (quant-blackscholes-crank-nicolson)" project-jdk-type="Python SDK" />
-</project>
