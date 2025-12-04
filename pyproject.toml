@@ -11,4 +11,5 @@ dependencies = [
     "ipympl>=0.9.5",
     "ipykernel>=6.29.5",
     "scipy>=1.16.3",
+    "scikit-learn>=1.7.2",
 ]
